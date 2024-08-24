@@ -8,7 +8,7 @@ This project is a web application that tracks and displays upcoming assignments 
 - **Display Assignments**: Shows upcoming assignments on a simple HTML page.
 - **Future Updates**: Plans to enhance the website's appearance and functionality with additional features.
 
-## Installation
+## Installation (For running locally)
 
 1. **Clone the repository**:
     ```bash
