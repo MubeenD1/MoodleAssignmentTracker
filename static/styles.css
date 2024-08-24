@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, #d6f9ff, #c8d7ff); /* Light blue to lavender gradient */
+    color: #444444; /* Dark text color for contrast */
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #ffffff;
+    ;
+}
