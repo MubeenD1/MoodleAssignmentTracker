@@ -14,7 +14,7 @@
   
 /* General Styles */
 body {
-    font-family: "Work Sans", cursive;
+    font-family: "Work Sans", sans-serif;
     background: linear-gradient(to right, #3fd4ee, #1573ca); /* Light background */
     color: #343a40; /* Dark gray text */
     margin: 0;
